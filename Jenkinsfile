@@ -15,7 +15,7 @@ pipeline {
               
               stage('Transferring code to destination server') {
                     steps {
-                          sh 'rsync -lrazvp **/*.* 10.2.1.55:/var/www/html/'
+                          sh 'rsync -lrazvp **/*.* root:x@10.2.1.55:/var/www/html/'
                           }
               }
        }
