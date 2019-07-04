@@ -569,3 +569,4 @@ if ( current_user_can( 'create_users' ) ) {
 </div>
 <?php
 include( ABSPATH . 'wp-admin/admin-footer.php' );
+/**/
