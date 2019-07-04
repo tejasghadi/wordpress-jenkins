@@ -9,7 +9,7 @@ pipeline {
              
              stage('archiving artifacts') {
                   steps {
-                          archiveArtifacts '**/*.html'
+                          archiveArtifacts '**/*'
                         }
               }
               
