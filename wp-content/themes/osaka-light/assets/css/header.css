@@ -1,0 +1,142 @@
+/* 1 --------- Variable and MIxins --------- */
+header.masthead {
+  text-transform: uppercase; }
+  header.masthead .navbar {
+    padding: 0 !important; }
+    header.masthead .navbar .navbar-brand {
+      float: left;
+      max-width: 190px;
+      margin: 0;
+      padding: 0; }
+  header.masthead .navbar-nav a {
+    color: #5a5a5a;
+    font-size: 13px;
+    line-height: 100px;
+    padding: 0; }
+    header.masthead .navbar-nav a:hover {
+      color: #5a5a5a; }
+  header.masthead .navbar-nav .dropdown-toggle::after {
+    display: none; }
+  header.masthead .navbar-nav.active > a {
+    color: #5a5a5a; }
+  header.masthead .navbar-nav .dropdown-menu, header.masthead .navbar-nav .sub-menu {
+    background-color: #fff;
+    border: none;
+    border-radius: 0;
+    margin: 0;
+    padding: 0; }
+  header.masthead .navbar-nav .dropdown-menu a, header.masthead .navbar-nav .sub-menu a {
+    color: #5a5a5a;
+    line-height: 24px !important;
+    padding: .5em 15px !important; }
+  header.masthead .navbar-nav .dropdown-menu a:hover, header.masthead .navbar-nav .sub-menu a:hover {
+    background-color: #343434;
+    color: #fff; }
+  header.masthead .btn {
+    color: #fff !important; }
+
+@media (min-width: 768px) {
+  header.masthead {
+    left: 0;
+    top: 0;
+    position: absolute;
+    z-index: 999;
+    width: 100%; }
+    header.masthead .row {
+      margin: 0; }
+      header.masthead .row div[class*="col"] {
+        padding: 0; }
+      header.masthead .row .col-md-10 {
+        z-index: 1; }
+      header.masthead .row .col-md-2 {
+        z-index: 0; }
+    header.masthead .navbar {
+      margin-right: -35px; }
+      header.masthead .navbar .navbar-collapse {
+        justify-content: flex-end; }
+      header.masthead .navbar .navbar-nav {
+        align-items: center; }
+        header.masthead .navbar .navbar-nav li a {
+          padding-left: 2em;
+          padding-right: 2em; }
+        header.masthead .navbar .navbar-nav li.menu-item-has-children:last-child a {
+          padding-right: 15px !important; }
+        header.masthead .navbar .navbar-nav li .btn {
+          line-height: 38px !important;
+          padding: 0 1.3em; }
+    header.masthead .dropdown {
+      overflow: hidden; }
+      header.masthead .dropdown .dropdown-menu, header.masthead .dropdown .sub-menu {
+        display: block;
+        min-width: 150px;
+        opacity: 0;
+        top: 120px;
+        transition: opacity 0.3s ease; }
+      header.masthead .dropdown .dropdown-menu .dropdown-menu, header.masthead .dropdown .dropdown-menu .sub-menu {
+        left: -100%;
+        right: 0; }
+      header.masthead .dropdown .sub-menu .dropdown-menu, header.masthead .dropdown .sub-menu .sub-menu {
+        left: -100%;
+        right: 0; }
+      header.masthead .dropdown:hover {
+        overflow: visible; }
+        header.masthead .dropdown:hover .dropdown-menu, header.masthead .dropdown:hover .sub-menu {
+          opacity: 1;
+          position: absolute;
+          top: inherit; }
+          .logged-in.admin-bar header.masthead.sticky{
+            margin-top: 32px;
+          }
+    header.masthead.sticky {
+      background: #fff;
+      box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.04);
+      position: fixed;
+      top: 0;
+      animation: fadeInDown 0.3s ease-out forwards; }
+      header.masthead.sticky .navbar .navbar-nav li a {
+        line-height: 70px; }
+    header.masthead.masthead-02 .navbar .navbar-nav li a {
+      color: #8c8c8c; } }
+/* ---------------- Responsive Style For Headers ---------------- */
+@media (max-width: 1199px) {
+  header.masthead .navbar .navbar-nav li a {
+    padding-left: 1em;
+    padding-right: 1em; }
+  header.masthead .navbar .navbar-nav .dropdown .dropdown-toggle:after {
+    margin-left: 5px; } }
+@media (max-width: 1024px) {
+  header.masthead .navbar .navbar-nav li a {
+    padding-left: 1em;
+    padding-right: 1em; }
+  header.masthead .navbar .navbar-nav .dropdown .dropdown-menu, header.masthead .navbar .navbar-nav .dropdown .sub-menu, header.masthead .navbar .navbar-nav .dropdown .children {
+    left: inherit;
+    right: 0; } }
+@media (max-width: 991px) {
+  header.masthead .navbar {
+    margin-right: -20px; }
+    header.masthead .navbar .navbar-brand {
+      max-width: 150px; }
+    header.masthead .navbar .navbar-nav li a {
+      padding-left: .875em;
+      padding-right: .875em; } }
+@media (max-width: 767px) {
+  header.masthead {
+    padding: 15px 0; }
+    header.masthead .col-md-10 {
+      border-bottom: 1px solid #cfd8dc;
+      padding: 15px; }
+    header.masthead .navbar-nav {
+      padding: 5px 0; }
+    header.masthead .navbar {
+      margin-right: 0; }
+      header.masthead .navbar .navbar-toggler-icon i {
+        margin-top: 5px; }
+      header.masthead .navbar .navbar-nav li a {
+        line-height: 40px; }
+      header.masthead .navbar .navbar-nav .dropdown-menu, header.masthead .navbar .navbar-nav .children, header.masthead .navbar .navbar-nav .sub-menu {
+        margin: 0 0 0 15px; }
+      header.masthead .navbar .navbar-nav .dropdown-menu a, header.masthead .navbar .navbar-nav .children a, header.masthead .navbar .navbar-nav .sub-menu a {
+        line-height: 25px;
+        padding: 3px 15px !important; } }
+
+/*# sourceMappingURL=header.css.map */
