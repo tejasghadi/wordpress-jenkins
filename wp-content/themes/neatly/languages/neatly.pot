@@ -1,0 +1,608 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Neatly\n"
+"POT-Creation-Date: 2019-07-04 23:58+0900\n"
+"PO-Revision-Date: 2019-05-06 14:52+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:30
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: comments.php:59
+msgid "One Pingback"
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "%1$s Pingbacks"
+msgstr ""
+
+#: comments.php:83
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:95 comments.php:103
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:101
+msgid "Write a comment"
+msgstr ""
+
+#: comments.php:119
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:121
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:124 inc/customizer/setting-posts.php:103
+msgid "Comments"
+msgstr ""
+
+#: comments.php:129 inc/customizer/setting-pages.php:96
+#: inc/customizer/setting-posts.php:96
+msgid "Name"
+msgstr ""
+
+#: comments.php:134
+msgid "Email"
+msgstr ""
+
+#: comments.php:138
+msgid "Website"
+msgstr ""
+
+#: comments.php:142
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: inc/breadcrumbs.php:11
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:133
+msgid "Author archive for "
+msgstr ""
+
+#: inc/breadcrumbs.php:178 inc/breadcrumbs.php:185
+#, php-format
+msgid "Search query for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:185 inc/breadcrumbs.php:198
+#, php-format
+msgid "( Page %s )"
+msgstr ""
+
+#: inc/breadcrumbs.php:190
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:63
+msgctxt "post_sortable"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:66
+msgctxt "post_sortable"
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:69
+msgctxt "post_sortable"
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:72
+msgctxt "post_sortable"
+msgid "Author & Date"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:75
+msgctxt "post_sortable"
+msgid "Page views"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:78
+msgctxt "post_sortable"
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:81
+msgctxt "post_sortable"
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:84
+#: inc/customizer/control-sortable.php:87
+#: inc/customizer/control-sortable.php:90
+#: inc/customizer/control-sortable.php:93
+#: inc/customizer/control-sortable.php:96
+msgctxt "post_sortable"
+msgid "Widget"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:99
+msgctxt "post_sortable"
+msgid "Page Link"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:102
+msgctxt "post_sortable"
+msgid "CTA"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:105
+msgctxt "post_sortable"
+msgid "Share"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:108
+msgctxt "post_sortable"
+msgid "About the author"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:111
+msgctxt "post_sortable"
+msgid "Related"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:114
+msgctxt "post_sortable"
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:117
+msgctxt "post_sortable"
+msgid "Tag"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:120
+msgctxt "post_sortable"
+msgid "Adjacent"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:123
+msgctxt "post_sortable"
+msgid "Comment"
+msgstr ""
+
+#: inc/customizer/control-sortable.php:126
+msgctxt "post_sortable"
+msgid "Mystery"
+msgstr ""
+
+#: inc/customizer/customizer.php:19
+msgid "Icon Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:34
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:40 inc/lib/widgets.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:46 inc/lib/widgets.php:49
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "Index"
+msgstr ""
+
+#: inc/customizer/setting-header.php:12
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/setting-header.php:21 inc/customizer/setting-sidebar.php:12
+msgid "Display"
+msgstr ""
+
+#: inc/customizer/setting-index.php:11 inc/customizer/setting-index.php:23
+#: inc/customizer/setting-pages.php:35 inc/customizer/setting-pages.php:47
+#: inc/customizer/setting-posts.php:35 inc/customizer/setting-posts.php:47
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/setting-index.php:19 inc/customizer/setting-pages.php:43
+#: inc/customizer/setting-posts.php:43
+msgid "Original size of thumbnail"
+msgstr ""
+
+#: inc/customizer/setting-index.php:24 inc/customizer/setting-pages.php:48
+#: inc/customizer/setting-posts.php:48
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/setting-index.php:25 inc/customizer/setting-pages.php:49
+#: inc/customizer/setting-posts.php:49
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/setting-index.php:26 inc/customizer/setting-pages.php:50
+#: inc/customizer/setting-posts.php:50
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/setting-index.php:32
+msgid "Widget"
+msgstr ""
+
+#: inc/customizer/setting-index.php:41
+msgid "How to Insert Index list widget area"
+msgstr ""
+
+#: inc/customizer/setting-index.php:45
+msgid "Just after post"
+msgstr ""
+
+#: inc/customizer/setting-index.php:46
+msgid "Every post"
+msgstr ""
+
+#: inc/customizer/setting-index.php:55
+msgid "Count of post for above configuring"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:12 inc/customizer/setting-pages.php:26
+#: inc/customizer/setting-posts.php:12 inc/customizer/setting-posts.php:26
+msgid "Reorder Sections"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:27 inc/customizer/setting-posts.php:27
+msgid "drag the columns to rearrange their order."
+msgstr ""
+
+#: inc/customizer/setting-pages.php:55 inc/customizer/setting-posts.php:56
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:64 inc/customizer/setting-posts.php:65
+msgid "Date display"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:68 inc/customizer/setting-posts.php:69
+#: inc/customizer/setting-sidebar.php:25
+msgid "Hidden"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:69 inc/customizer/setting-posts.php:70
+msgid "Publish"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:70 inc/customizer/setting-posts.php:71
+msgid "Update"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:71 inc/customizer/setting-posts.php:72
+msgid "Publish & Update"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:77 inc/customizer/setting-posts.php:77
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/setting-pages.php:86 inc/customizer/setting-posts.php:86
+msgid "Avatar"
+msgstr ""
+
+#: inc/customizer/setting-posts.php:111
+msgid "Comment Text Field to Bottom"
+msgstr ""
+
+#: inc/customizer/setting-posts.php:121
+msgid "Website Field Disappear"
+msgstr ""
+
+#: inc/customizer/setting-sidebar.php:21
+msgid "Sidebar display"
+msgstr ""
+
+#: inc/customizer/setting-sidebar.php:26
+msgid "All"
+msgstr ""
+
+#: inc/customizer/setting-sidebar.php:27
+msgid "Only index"
+msgstr ""
+
+#: inc/lib/after_setup_theme.php:59
+msgid "Header Menu"
+msgstr ""
+
+#: inc/lib/after_setup_theme.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/lib/after_setup_theme.php:61
+msgid "Credit Menu"
+msgstr ""
+
+#: inc/lib/widgets.php:13
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/lib/widgets.php:21
+msgid "Footer Left"
+msgstr ""
+
+#: inc/lib/widgets.php:23 inc/lib/widgets.php:32 inc/lib/widgets.php:41
+msgid "Add widgets here to appear in bottom footer"
+msgstr ""
+
+#: inc/lib/widgets.php:23
+msgid "(left side)"
+msgstr ""
+
+#: inc/lib/widgets.php:30
+msgid "Footer Center"
+msgstr ""
+
+#: inc/lib/widgets.php:32
+msgid "(center)"
+msgstr ""
+
+#: inc/lib/widgets.php:39
+msgid "Footer Right"
+msgstr ""
+
+#: inc/lib/widgets.php:41
+msgid "(right side)"
+msgstr ""
+
+#: inc/lib/widgets.php:51
+msgid "Add widgets here to header."
+msgstr ""
+
+#: inc/lib/widgets.php:59
+msgctxt "widget"
+msgid "the post"
+msgstr ""
+
+#: inc/lib/widgets.php:60
+msgctxt "widget"
+msgid "the page"
+msgstr ""
+
+#: inc/lib/widgets.php:63
+msgctxt "widget"
+msgid "the first"
+msgstr ""
+
+#: inc/lib/widgets.php:64
+msgctxt "widget"
+msgid "the second"
+msgstr ""
+
+#: inc/lib/widgets.php:65
+msgctxt "widget"
+msgid "the third"
+msgstr ""
+
+#: inc/lib/widgets.php:74
+#, php-format
+msgid "Before %1$s H2 of %2$s"
+msgstr ""
+
+#: inc/lib/widgets.php:78
+#, php-format
+msgid "Add widgets before %1$s H2 in the contents of %2$s"
+msgstr ""
+
+#: inc/lib/widgets.php:92
+msgid "Index List"
+msgstr ""
+
+#: inc/lib/widgets.php:94
+msgid "Add widgets here to index list insert."
+msgstr ""
+
+#: inc/lib/widgets.php:94
+msgid "change the number of insert widget area."
+msgstr ""
+
+#: inc/lib/widgets.php:104
+msgid "Post widget"
+msgstr ""
+
+#: inc/lib/widgets.php:106
+msgid "Add widgets in the contents of the post"
+msgstr ""
+
+#: inc/lib/widgets.php:119
+msgid "Page widget"
+msgstr ""
+
+#: inc/lib/widgets.php:121
+msgid "Add widgets in the contents of the page"
+msgstr ""
+
+#: inc/template-tags.php:134
+msgid "a year ago"
+msgstr ""
+
+#: inc/template-tags.php:136
+#, php-format
+msgid "%s years ago"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgid "a month ago"
+msgstr ""
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "%s months ago"
+msgstr ""
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "a week ago"
+msgstr ""
+
+#: inc/template-tags.php:144
+#, php-format
+msgid "yesterday at %s"
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "an hour ago"
+msgstr ""
+
+#: inc/template-tags.php:149
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "a minute ago"
+msgstr ""
+
+#: inc/template-tags.php:152
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgid "just now"
+msgstr ""
+
+#: inc/template-tags.php:221 inc/template-tags.php:256
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:253
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:270
+msgid "*Your comment is awaiting moderation.*"
+msgstr ""
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: template-parts/index/content-none.php:14
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/index/content-none.php:16
+msgid "Get started here."
+msgstr ""
+
+#: template-parts/index/content-none.php:20
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: template-parts/index/content-none.php:21
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/index/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: template-parts/index/content-none.php:27
+msgid "Perhaps searching can help."
+msgstr ""
+
+#: template-parts/single/single-adjacent.php:26
+msgid "Prev"
+msgstr ""
+
+#: template-parts/single/single-adjacent.php:48
+msgid "Next"
+msgstr ""
+
+#: template-parts/single/single-link_page.php:35
+msgid "Next Page"
+msgstr ""
+
+#: template-parts/single/single-link_page.php:55
+msgid "Pages:"
+msgstr ""
+
+#: template-title_content.php:9
+msgid "Title and content only"
+msgstr ""
+
+#: template-title_content_no_sidebar.php:9
+msgid "Title and content only without sidebar"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Neatly"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://back2nature.jp/themes/neatly"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Neatly is simple and readable,and full responsive WordPress theme.Visitors "
+"arrive by any devices.I designed it using a mobile-first approach.It is thus "
+"possible to improve usability of the smartphone.And of course, other devices "
+"is responsive.Let's try it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr ""

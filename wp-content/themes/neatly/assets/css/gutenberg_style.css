@@ -1,0 +1,23 @@
+.alignwide,
+.alignfull {
+  margin: 32px calc(50% - 50vw);
+  max-width: 100vw;
+  width: 100vw; }
+
+.post_body .wp-block-pullquote {
+  border-color: transparent;
+  border-width: 2px;
+  padding: 8px; }
+.post_body .wp-block-table {
+  display: table;
+  margin: 32px 0; }
+  .post_body .wp-block-table th, .post_body .wp-block-table td {
+    border-color: #e6e6e6; }
+
+@media screen and (min-width: 980px) {
+  .alignwide {
+    margin: 32px calc( ( 610px - 980px ) / 2 );
+    max-width: 980px;
+    width: 980px; } }
+
+/*# sourceMappingURL=gutenberg_style.css.map */

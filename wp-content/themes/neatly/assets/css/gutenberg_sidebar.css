@@ -1,0 +1,11 @@
+.post_body .wp-block-pullquote {
+  border-color: transparent;
+  border-width: 2px;
+  padding: 8px; }
+.post_body .wp-block-table {
+  display: table;
+  margin: 32px 0; }
+  .post_body .wp-block-table th, .post_body .wp-block-table td {
+    border-color: #e6e6e6; }
+
+/*# sourceMappingURL=gutenberg_sidebar.css.map */
